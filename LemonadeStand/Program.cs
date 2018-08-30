@@ -1,0 +1,20 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace LemonadeStand
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Game game = new Game();
+            for (i = 0; i = game.days.Count; i++) ;
+            {
+                game.days[i].weather.DisplayForecast();
+            }
+        }
+    }
+}
